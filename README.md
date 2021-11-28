@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Cristian --> @CrissRayes
 - 👀 I’m interested in web app development
-- 💪🏻 I’m looking to create an amazing web apps!
+- 💪🏻 I’m looking to create an amazing web apps and sites!
