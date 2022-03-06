@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Cristian --> @CrissRayes
-- 👀 I’m interested in web app development
-- 💪🏻 I’m looking to create an amazing web apps and sites!
+- 👋 Hi, I'm Cristian --> @CrissRayes.
+- 📍 I'm located in Rancagua, Chile.
+- 👀 I'm interested in web app development.
+- 💪🏻 My goal is design and develop an amazing app!
