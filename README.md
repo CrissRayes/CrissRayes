@@ -1,4 +1,6 @@
-### <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif' width='40px'> About Me 
+### <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif' width='40px'> 
+
+About Me 
 - 👋 Hello, my name is Cristian Ramírez. I live in Rancagua, Chile.
 - Nowadays I'm coursing a Full Stack Web Development Bootcamp, focused in Ruby on Rails at "Desafío Latam Academy".
 > "I love programming, through the years I discovered this passion and I've been learning HTML, CSS, Sass, Javascript, Postgres, Ruby and Ruby on Rails.
