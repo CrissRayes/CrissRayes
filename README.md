@@ -1,4 +1,4 @@
-### <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif' width='40px'> 
+### <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif' width='20px'> 
 
 About Me 
 - 👋 Hello, my name is Cristian Ramírez. I live in Rancagua, Chile.
