@@ -1,6 +1,6 @@
 About Me 
 - 👋 Hello, my name is Cristian Ramírez. I live in Rancagua, Chile.
-- I'm Full Stack Ruby on Rails Developer.
+- I'm Full Stack Developer.
 > "I love programming and I want to design and develop cool solutions for people's lives, solving challenges and enjoying the journey.
 
 <a href="https://github.com/CrissRayes/CrissRayes">
